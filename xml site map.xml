@@ -1,0 +1,33 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+    
+<urlset xmlns = "http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+    <loc>https://yachana-webdeveloper-portfolio.herokuapp.com/home</loc>
+    <lastmod>2020-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+    </url>
+    
+    <url>
+    <loc>https://yachana-webdeveloper-portfolio.herokuapp.com/Qualification</loc>
+    <lastmod>2020-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    </url>
+    
+    <url>
+    <loc>https://yachana-webdeveloper-portfolio.herokuapp.com/projects</loc>
+    <lastmod>2020-08-12</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1</priority>
+    </url>
+    
+    <url>
+    <loc>https://yachana-webdeveloper-portfolio.herokuapp.com/contact</loc>
+    <lastmod>2020-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+    </url>
+    
+</urlset>
